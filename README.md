@@ -4,9 +4,9 @@ tianracer_autodrive 是一个针对 Tianbot 平台开发的 ROS2GO 的 Tianracer
 本项目由 星环队 开源，旨在为本项目赛队和开发者提供一个自动驾驶算法库，便于后期迭代升级。
 
 ## 当前版本
-- **稳定版本**: v0.4
-- **可用版本**: v0.0-0.4
-- **开发中**: v0.5
+- **稳定版本**: v0.5
+- **可用版本**: v0.1-0.5
+- **开发中**: v0.6
 
 ## 功能特点
 - 支持激光雷达的数据采集与处理
@@ -33,9 +33,9 @@ It currently includes wall-following algorithm-based autonomous driving control,
 This project is open-sourced by Team StarRing, aiming to provide both the team and developers with a reusable autonomous driving algorithm library for future iterations and upgrades.
 
 ## Versions
-- **Stable Version**: v0.4
-- **Usable Version**: v0.0-0.4
-- **Developing Version**: v0.5
+- **Stable Version**: v0.5
+- **Usable Version**: v0.1-0.5
+- **Developing Version**: v0.6
 
 ## Features
 - Supports LiDAR data acquisition and processing
